@@ -82,17 +82,20 @@ Esses arquivos representam a base do projeto desenvolvido e a execução da simu
 
 As imagens presentes em `imgs/` documentam a atividade e servem como evidência do desenvolvimento e da simulação:
 
-### Sensor e ambiente do projeto
+### Build do projeto
+
+![Build completo](imgs/build_completo.jpg)
+
+![Build completo2](imgs/build_completo_2.jpg)
+
+### Simulador Wokwi: inicialização e funcionamento do sistema
+
+![Inicialização e boot do simulador](imgs/simulador_boot_ok.jpg)
+
+### Simulador Wokwi: Sensor MPU6050
 
 ![Sensor MPU6050](imgs/sensores.jpg)
 
-### Simulação do circuito no Wokwi
-
-![Simulação do circuito](imgs/simulador.jpg)
-
-### Inicialização e funcionamento do sistema
-
-![Inicialização e boot do simulador](imgs/simulador_boot_ok.jpg)
 
 ## Resultados esperados
 
