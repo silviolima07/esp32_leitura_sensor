@@ -1,5 +1,9 @@
 # Leitura de sensor com ESP32 e MPU6050
 
+## Atividade:
+
+![Fluxo da atividade](imgs/fluxo.jpg)
+
 ## Descrição da atividade desenvolvida
 
 Esta atividade teve como objetivo desenvolver uma aplicação embarcada completa para leitura de dados de um sensor acelerômetro/giroscópio utilizando o ESP32-S3 e o framework ESP-IDF no VS Code. A simulação foi realizada com a extensão Wokwi, permitindo testar o circuito e o firmware de forma prática antes da execução real.
